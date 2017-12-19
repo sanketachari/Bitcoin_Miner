@@ -110,7 +110,9 @@ MacBook Pro: i7 4 cores, 3.1 GHz ,16GB RAM
 sanketachari;dj2efv     0000000b22c95457891d9408fedfa9210bd82a6732ae517bce455e13654224de
 
 We connected 2 machines :
+
 **MacBook Pro: i7 4 cores, 3.1GHz,  16 GB RAM
+
 Lenovo Y50: i7 4 cores, 8 Hyperthreaded, 2.5 GHz, 8 GB RAM**
 
 
