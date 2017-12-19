@@ -83,7 +83,7 @@ MacBook Pro: i7 4 cores, 3.1 GHz ,16GB RAM
 
 
 
-We were able to mine coins with 7 leading zeros.
+*We were able to mine coins with 7 leading zeros.
 
 sanketachari;dj2efv     0000000b22c95457891d9408fedfa9210bd82a6732ae517bce455e13654224de
 
