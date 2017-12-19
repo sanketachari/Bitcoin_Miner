@@ -21,7 +21,8 @@ To get results instantly i.e. within microseconds, we recommend to provide coins
 
 If you give more than 6 leading zeros as input, you may have to wait for few minutes.
 
-Instruction to Abort execution:
+### Instruction to Abort execution:
+
 Press ‘ctrl +  C’ in server console as well in client console to abort the execution.
 
 ### Iterative technique to mine Bitcoin:
