@@ -2,7 +2,8 @@
 
 1. Make sure epmd daemon is running. Run epmd -daemon
 2. Run server first. Run following commands from the directory which has mix.exs
-	 mix escript.build 
+
+	   mix escript.build 
   	 ./project x
    Here x can be any number from 1 to 63.
 
