@@ -5,11 +5,14 @@
 
 	   mix escript.build 
   	 ./project x
-   Here x can be any number from 1 to 63.
+
+Here x can be any number from 1 to 63.
 
 3. Run client after server got setup and started mining. Run following command
+
  	mix escript.build  
   ./project1 x.x.x.x
+
 Here in place of x.x.x.x insert the IP address of server.
 
 To get results instantly i.e. within microseconds, we recommend to provide coins with less than 5 leading zeros.
