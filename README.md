@@ -3,17 +3,17 @@
 1. Make sure epmd daemon is running. Run epmd -daemon
 2. Run server first. Run following commands from the directory which has mix.exs
 
-  mix escript.build 
+      mix escript.build 
 
-  ./project x
+      ./project x
 
 Here x can be any number from 1 to 63.
 
 3. Run client after server got setup and started mining. Run following command
 
-  mix escript.build 
-  
-  ./project1 x.x.x.x
+      mix escript.build 
+      
+      ./project1 x.x.x.x
 
 Here in place of x.x.x.x insert the IP address of server.
 
