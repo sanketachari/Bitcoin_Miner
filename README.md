@@ -46,13 +46,22 @@ This is the main idea of our mining technique.
 ### Result for 4 leading zeros:
 
 Sankets-MacBook-Pro:project1 sanket$ time ./project1 4
+
 Calling Miners
+
 sanketachari;99i        0000c741b451142e61eb4b887f15c37f8f3caa97e832684917360d0c6e8cdb71
-sanketachari;sy8        000041a8b787d5365457afacdcb3341b9e53104135339bb698f077440084d2da
+
+sanketachari;sy8        
+000041a8b787d5365457afacdcb3341b9e53104135339bb698f077440084d2da
+
 sanketachari;1nkkll     00001fc96698957dd28e969e9a296e85d793348e4c791ffb5f7752748b5f561c
+
 sanketachari;1h02       0000b32385a990cad3f931a05629697532964db9190f8773e409eee74145c5b6
+
 sanketachari;1u2m       000067d2bd83af8b70816e9038da3b3cb260646d221db61e1e95298fc742efbf
+
 sanketachari;4ynrsz     00004110d41eb854e7884118d452feceaa2fd621d7a9ddc29ed690a665d8f9cf
+
 ^C
 
 real    0m1.033s
@@ -60,6 +69,7 @@ user    0m3.245s
 sys     0m0.122s
 
 Real time = 1.033s CPU time = 3.245s
+
 No of cores = CPU time / Real time = 3.245 / 1.033 = 3.14
 
 This means that 4 cores has been used.
@@ -68,10 +78,15 @@ This means that 4 cores has been used.
 ### Result for 5 leading zeros:
 
 Sankets-MacBook-Pro:project1 sanket$ time ./project1 5
+
 Calling Miners
+
 sanketachari;4ypv9d     0000088c6e3818b82035a2eb9538328aaac53a9babc004b64f3f2b362204bd38
+
 sanketachari;6r1t       00000b6200cf428353b25bf52db17544323b850a88c83eba4e4471d2942d0214
+
 sanketachari;4ysb2f     00000a47ac4f49e69d32be0d20587f8a6d511b8566ce2687ef43bb74c6d6dec5
+
 ^C
 
 real    0m2.702s
@@ -79,6 +94,7 @@ user    0m9.675s
 sys     0m0.181s
 
 Real time = 2.702s CPU time = 9.675s
+
 No of cores = CPU time / Real time = 9.675 / 2.702  = 3.58
 
 This means that 4 cores has been used.
