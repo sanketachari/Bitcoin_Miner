@@ -21,6 +21,7 @@ Press ‘ctrl +  C’ in server console as well in client console to abort the e
 ### Iterative technique to mine Bitcoin:
 
 1. We have used actor model in the implementation to parallely mine the bitcoins. We have 3 modules
+
      i. Project1:       	Checks whether input is number or IP and delegates work to the Manager.
 
      ii. MiningManager:  If the input is number it spawns the workers and keep on printing results sent by the workers. If the input is IP address then it spawns the node and contacts the MiningManager of server. Based on the leading zeros replied by server, it starts mining. And when client's workers get the strings whose sha256 matches with the leading zeros, it sends the result to server.
